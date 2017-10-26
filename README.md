@@ -1,4 +1,4 @@
-## Welcome to Final App
+## Welcome to Jen's Final App
 
 You can use the [editor on GitHub](https://github.com/s0123559/gis.blue/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
